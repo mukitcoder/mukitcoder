@@ -2,15 +2,15 @@
 
 ![I am GitHub Readme Generator's creator](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
 
-<h1 align="center">Hi 👋, I'm RafiZaman</h1>
+<h1 align="center">Hi 👋, I'm Mukit</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work harder and to achive that skill i am trying my heart and soul to be a better programmer.I have huge interests in software development.Now i am working on web development field and continuously learning as well.
+> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied Environment Engineering in KPI.Programming is a vast knowledge of skills and logics.For that u need to work harder and to achive that skill i am trying my heart and soul to be a better programmer.I have huge interests in software development.Now i am working on web development field and continuously learning as well.
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukitcoder" alt="mukitcoder" /></a> </p>
 
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
@@ -21,9 +21,7 @@
 
 - 👯 I’m looking to **contribute more in github in the upcoming days 🤣**
 
-- 📫 How to reach me **rafiirfan211@gmail.com**
-
-- ⚡ Fun fact **I love to play cricket and play games in Pc**
+- 📫 How to reach me **mukitbd71@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi983)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi983)  
 
@@ -67,8 +65,8 @@
 ### :boy: A little more about me:
 
 ```javascript
-const rafi = {
-  name: "Rafi Irfan Zaman",
+const mukit = {
+  name: "Abdullah Al Mukit",
   pronouns: "He" | "Him",
   languageSpoken: ["en_US", "bn_BD"],
   code: ["Javascript", "HTML", "CSS"],
@@ -91,42 +89,15 @@ const rafi = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 816 Contributions in the Year 2021
+> 🏆 100 Contributions in the Year 2021
  > 
 > 📦 585.0 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 88 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    236 commits    █████████░░░░░░░░░░░░░░░░   37.4% 
-🌃 Evening    233 commits    █████████░░░░░░░░░░░░░░░░   36.93% 
-🌙 Night      162 commits    ██████░░░░░░░░░░░░░░░░░░░   25.67%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
-Tuesday      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Wednesday    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Saturday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Sunday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
-
-```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
@@ -160,33 +131,3 @@ CSS                      25 repos            ██████░░░░░�
 SCSS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 ```
-
-
-
- Last Updated on 16/10/2021
-<!--END_SECTION:waka-->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=500&theme=vision-friendly-dark)
-
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
-
-
-
-![rafi983's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983&theme=react-dark)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=omni)](https://github.com/rafi983/Hungry-Monster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=omni)](https://github.com/rafi983/WeatherApp-Js)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=omni)](https://github.com/rafi983/Natours)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=omni)](https://github.com/rafi983/Glassmorphism-Calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=omni)](https://github.com/rafi983/Backroads-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=omni)](https://github.com/rafi983/Tea-station)
