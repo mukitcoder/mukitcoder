@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mukitbd71@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi983)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi983)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mukitcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)  
 
 
 
@@ -89,15 +89,42 @@ const mukit = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 100 Contributions in the Year 2021
+> 🏆 816 Contributions in the Year 2021
  > 
 > 📦 585.0 kB Used in GitHub's Storage 
  > 
-> 📜 20 Public Repositories 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 88 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    236 commits    █████████░░░░░░░░░░░░░░░░   37.4% 
+🌃 Evening    233 commits    █████████░░░░░░░░░░░░░░░░   36.93% 
+🌙 Night      162 commits    ██████░░░░░░░░░░░░░░░░░░░   25.67%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+Tuesday      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
+Wednesday    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+Saturday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Sunday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
@@ -131,3 +158,10 @@ CSS                      25 repos            ██████░░░░░�
 SCSS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 ```
+
+
+
+ Last Updated on 17/10/2021
+<!--END_SECTION:waka-->
+
+
